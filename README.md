@@ -1,6 +1,6 @@
 # swift_dev
 
-Codelabs for the course Swift development
+Codelabs for a Swift development course
 
 How to work:
 
